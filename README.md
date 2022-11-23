@@ -3,3 +3,4 @@ premier essai git(hub)
 premier readme pour essai1
 
 #conflit depuis le local
+modification pour créer un conflit
